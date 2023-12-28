@@ -1,7 +1,7 @@
 // import { useState } from 'react'
 import HomeComponent from './Component/HomeComponent'
-import QuizComponent from './Component/QuizComponent';
-import ResultComponent from './Component/ResultComponent';
+// import QuizComponent from './Component/QuizComponent';
+// import ResultComponent from './Component/ResultComponent';
 // import './Component.css'
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       {/* <HomeComponent /> */}
-      <QuizComponent/>
+        <HomeComponent/>
       {/* <ResultComponent/> */}
     </>
   )
